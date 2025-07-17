@@ -1,0 +1,9 @@
+! Title: Yandex SmartCaptcha Blocklist
+! block your CAPTCHA on services Yandex's RU
+||yandex.ru/showcaptcha$document
+||*.yandex.ru/showcaptcha$document
+||ya.ru/showcaptcha$document
+! block your CAPTCHA on services Yandex's USA
+||yandex.com/showcaptcha$document
+||*.yandex.com/showcaptcha$document
+||ya.com/showcaptcha$document
